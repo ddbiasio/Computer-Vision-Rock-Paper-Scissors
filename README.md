@@ -13,7 +13,7 @@ Installed the required packages: opencv-python, tensorflow, and ipykernel:
    pip install ~/Downloads/tensorflow-2.7.0-cp38-cp38-linux_x86_64.whl
    pip install ipykernel
 Attempted to run the model but got an error: The TensorFlow library was compiled to use AVX instructions, but these aren't available on your machine.
-I downloaded a pre-complied version from https://github.com/lakshayg/ls#tensorflow-build to overcome this issue and installed this in the enviroment and was able to run the model successfully
+I downloaded a pre-complied version from https://github.com/lakshayg/tensorflow-build to overcome this issue and installed this in the enviroment and was able to run the model successfully
 
 # Milestone 3
 
